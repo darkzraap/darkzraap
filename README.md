@@ -12,7 +12,7 @@
 
 - 🔭 Currently building **[Property Web Application](https://github.com/darkzraap/protanahfront)**
 - 🌱 Currently leveling up in **React**
-- 👯 Looking to collaborate on **beginner web projects**
+- 👯 Looking to collaborate on **web projects**
 - 🤝 Looking for help with **Excel & Data Analysis**
 - 📫 Reach me at **ariaryaputra5@gmail.com**
 
