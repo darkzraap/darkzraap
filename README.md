@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F0FF&background=0D0221&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Ari+Arya+Putra;Entry+Level+Fullstack+Developer;Still+leveling+up+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F0FF&background=0D0221&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Ari+Arya+Putra;Fullstack+Developer+%E2%9A%A1" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=darkzraap&label=PROFILE+VIEWS&color=0D0221&style=for-the-badge&labelColor=FF2EC4)
 
